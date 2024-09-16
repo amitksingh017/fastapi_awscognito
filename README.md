@@ -6,7 +6,7 @@ Please note: This library does **not** support sign-up and sign-in features for 
 
 ## Requirements
 
-- Python >= 3.8
+- Python >= 3.11
 - FastAPI
 - AWS Cognito Service
 
